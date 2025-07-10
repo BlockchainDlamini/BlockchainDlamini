@@ -57,7 +57,7 @@ AI-powered chatbot for Gordon Institute of Business Science using Microsoft Copi
 - **Impact**: Enhanced student engagement and reduced administrative workload
 - **Features**: Custom prompt engineering, responsive UI, intelligent automation
 
-### [Chaos Engineering Security Research](https://github.com/thandodlamini/chaos-security-research)
+### Chaos Engineering Research
 Research project on chaos experiments in containerized environments addressing supply chain vulnerabilities.
 - **Focus**: Supply chain security, container security, chaos engineering
 - **Status**: Ongoing Honours research project
