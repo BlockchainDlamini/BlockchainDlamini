@@ -45,13 +45,13 @@
 
 ## Projects
 
-###  [AI Phishing Detection System](https://github.com/thandodlamini/ai-phishing-detector)
+###  [Phishing-Mail-Classification-System](https://github.com/BlockchainDlamini/Phishing-Mail-Classification-System)
 Machine learning-based email security system using fine-tuned DistilBERT model with explainable AI features.
 - **Tech Stack**: Python, Django, DistilBERT, REST API
 - **Achievement**: 92.59% accuracy in phishing threat detection
 - **Features**: Real-time analysis, explainable AI, threat classification
 
-### [GIBS AI Chatbot](https://github.com/thandodlamini/gibs-chatbot)
+### [EBIT-AI-CHATBOT](https://github.com/BlockchainDlamini/EBIT-AI-CHATBOT)
 AI-powered chatbot for Gordon Institute of Business Science using Microsoft Copilot Studio.
 - **Tech Stack**: Microsoft Copilot Studio, PrimeVue, Vue.js
 - **Impact**: Enhanced student engagement and reduced administrative workload
