@@ -49,15 +49,8 @@
 Machine learning-based email security system using fine-tuned DistilBERT model with explainable AI features.
 - **Tech Stack**: Python, Django, DistilBERT, REST API
 - **Achievement**: 92.59% accuracy in phishing threat detection
-- **Features**: Real-time analysis, explainable AI, threat classification
 
 ### [EBIT-AI-CHATBOT](https://github.com/BlockchainDlamini/EBIT-AI-CHATBOT)
 AI-powered chatbot for Gordon Institute of Business Science using Microsoft Copilot Studio.
 - **Tech Stack**: Microsoft Copilot Studio, PrimeVue, Vue.js
-- **Impact**: Enhanced student engagement and reduced administrative workload
-- **Features**: Custom prompt engineering, responsive UI, intelligent automation
-
-### Chaos Engineering Research
-Research project on chaos experiments in containerized environments addressing supply chain vulnerabilities.
-- **Focus**: Supply chain security, container security, chaos engineering
-- **Status**: Ongoing Honours research project
+- **Goal**: Aim to enhance student engagement and reduced administrative workload
