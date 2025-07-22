@@ -55,6 +55,6 @@ AI-powered chatbot for Gordon Institute of Business Science using Microsoft Copi
 - **Goal**: Aim to enhance student engagement and reduced administrative workload
 
 ### [CoRE Engineering Website](https://coreengineering.co.za/)
-Professional engineering consultancy website featuring modern design and responsive layout.
+Professional engineering research website featuring modern design and responsive layout.
 - **Tech Stack**: HTML5, CSS3, JavaScript, Bootstrap
 - **Goal**: Showcase engineering services and establish professional online presence
