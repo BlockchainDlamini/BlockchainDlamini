@@ -12,7 +12,6 @@
 ### Frameworks & Technologies
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![PrimeVue](https://img.shields.io/badge/PrimeVue-007ACC?style=for-the-badge&logo=vue.js&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -54,3 +53,8 @@ Machine learning-based email security system using fine-tuned DistilBERT model w
 AI-powered chatbot for Gordon Institute of Business Science using Microsoft Copilot Studio.
 - **Tech Stack**: Microsoft Copilot Studio, PrimeVue, Vue.js
 - **Goal**: Aim to enhance student engagement and reduced administrative workload
+
+### [CoRE Engineering Website](https://coreengineering.co.za/)
+Professional engineering consultancy website featuring modern design and responsive layout.
+- **Tech Stack**: HTML5, CSS3, JavaScript, Bootstrap
+- **Goal**: Showcase engineering services and establish professional online presence
