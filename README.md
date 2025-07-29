@@ -14,5 +14,5 @@
 
 ### Activity
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blocchaindlamini&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blockhaindlamini&layout=compact&theme=tokyonight)
 
