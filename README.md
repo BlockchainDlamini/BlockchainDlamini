@@ -11,7 +11,5 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### Activity
 
-[![BlockchainDlamini's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BlockchainDlamini)](https://github.com/blockchainDlamini/github-readme-activity-graph)
 
