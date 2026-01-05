@@ -18,5 +18,5 @@ Projects coming soon
 - Azure  
 - Docker  
 - Git  
-- Visual Studio  
+- Vscode  
 - GitHub Actions
