@@ -9,7 +9,7 @@ Projects coming soon
 
 ## Tech Stack
 - Languages: C#, Python, JavaScript  
-- Frameworks: .NET, ASP.NET Core, React  
+- Frameworks: .NET, ASP.NET Core, ASP.NET, Blazor, Xamarin 
 - Databases: SQL Server, PostgreSQL  
 
 ---
