@@ -1,1 +1,2 @@
-Please don't try to hire me once I'm up, you had your chance.
+"Every strike brings me closer to the next home run." 
+— Babe Ruth
